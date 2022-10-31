@@ -1,2 +1,2 @@
-# sandwich
-Example of sandwich attack in a `Solana` program
+# Sandwich
+How to prevent a sandwich attack in a `Solana` program
